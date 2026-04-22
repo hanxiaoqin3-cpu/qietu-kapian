@@ -1,0 +1,5 @@
+{
+  "name": "4.22卡片模切排版",
+  "description": "专业级自动模切生产线排版工具，支持 A3 横向 (420x297mm) 画布、6x3 矩阵排列、批量图片上传及直排功能。",
+  "requestFramePermissions": []
+}
